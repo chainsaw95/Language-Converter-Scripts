@@ -1,0 +1,7 @@
+<?php
+	
+	$language['hello_text'] 	= "Hello World!!";
+	$language['story_label'] 	= "This is a story label";
+    $language['story_desc']     = "Testing for langage conversion";
+
+?>

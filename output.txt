@@ -1,0 +1,3 @@
+	$language['hello_text'] 	 =" Hallo Welt!!";
+	$language['story_label'] 	 =" Dies ist ein Story-Label";
+    $language['story_desc']      =" Testen für die Langage-Umwandlung";
